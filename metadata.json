@@ -1,0 +1,7 @@
+{
+  "name": "SnapStudio AI",
+  "description": "Professional AI Product Photography studio. Upload products, remove backgrounds, analyze details, and generate high-end marketing scenes instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
